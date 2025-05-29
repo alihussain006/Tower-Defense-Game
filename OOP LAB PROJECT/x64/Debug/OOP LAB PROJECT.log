@@ -1,0 +1,11 @@
+﻿  Base.cpp
+  Bullet.cpp
+  Enemy.cpp
+  main.cpp
+E:\My Workspace\OOP LAB PROJECT\OOP LAB PROJECT\main.cpp(320,32): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+E:\My Workspace\OOP LAB PROJECT\OOP LAB PROJECT\main.cpp(398,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  SniperTower.cpp
+E:\My Workspace\OOP LAB PROJECT\OOP LAB PROJECT\SniperTower.cpp(6,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Tower.cpp
+  Generating Code...
+  OOP LAB PROJECT.vcxproj -> E:\My Workspace\OOP LAB PROJECT\x64\Debug\OOP LAB PROJECT.exe

@@ -1,0 +1,14 @@
+﻿  Base.cpp
+  Bullet.cpp
+  Enemy.cpp
+  main.cpp
+E:\OOP LAB PROJECT\OOP LAB PROJECT\main.cpp(218,32): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+E:\OOP LAB PROJECT\OOP LAB PROJECT\main.cpp(292,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  SniperTower.cpp
+E:\OOP LAB PROJECT\OOP LAB PROJECT\SniperTower.cpp(6,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Tower.cpp
+  Generating code
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+  All 1079 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  OOP LAB PROJECT.vcxproj -> E:\OOP LAB PROJECT\x64\Release\OOP LAB PROJECT.exe
